@@ -4,7 +4,7 @@ title:  "welcome to cellulove blog"
 date:   2020-07-24 21:00:00 +0200
 ---
 
-![Retina Weavers]({{ BASE_PATH }}/assets/images/hearts.jpg)
+![welcome heart]({{ BASE_PATH }}/assets/images/hearts.jpg)
 
 Welcome to cellulove blog <3
 The aim of the blog is the appreciation of the patterns and art of the human body tissues under the microscope.
