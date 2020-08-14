@@ -5,7 +5,8 @@ date:   2020-08-02 21:00:00 +0200
 categories: GIT
 ---
 
-![pyloric corals]({{ BASE_PATH }}/assets/images/mepylorus-glands-sea-weeds.jpg)
+![pyloric corals]({{ BASE_PATH }}/assets/images/pylorus-glands-sea-weeds.jpg
+)
 
 Under the sea and at near the end of the stomach >>> these beautifully looking pyloric glands with their tall and wide pits make this beautiful image. 
 
