@@ -9,4 +9,4 @@ categories: skin
 
 The beautifully hanged sebaceous gland from the side of the hair follicle, like a bunch of grapes hanging from its tree :)
 
-The holocrine sebaceous gland cells suicides to release the sebum. You will notice healthy rounded nuclei, dark small pyknotic and no nuclei at all in the cells which are about to burst releasing all the sebum to skin and har to moisturize them
+The holocrine sebaceous gland cells suicides to release the sebum. You will notice healthy rounded nuclei, dark small pyknotic and no nuclei at all in the cells which are about to burst releasing all the sebum to skin and har to moisturize them.
