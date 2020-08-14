@@ -10,3 +10,6 @@ categories: nervous system
 Hey!! its my birthday :)
 
 My cake has a layer of chocolate drip exactly like the transparent epidermis of the red margin of the lip with is dripping over and forming very high dermal papillae containing many blood vessels and nerves. 
+
+
+Lip H&E x100
