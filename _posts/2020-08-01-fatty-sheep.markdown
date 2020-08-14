@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The fatty bairam sheep"
+title:  "The fatty bayram sheep"
 date:   2020-08-01 21:00:00 +0200
 categories: connective tissue 
 ---
