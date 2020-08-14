@@ -15,3 +15,4 @@ Here you can see the epidermis/ sand with the sensory nerve endings that are cal
 Meissner's corpuscles can sense fine, discriminative touch and vibration. Its speciality is tactile discrimination found in glabrous skin in fingers,palms and soles.
 
 It really helpes the blind to be able to read the brialle alphabet :)
+Skin silver stain x400
