@@ -13,3 +13,6 @@ The sea water is the matrix in which swimmers/ chondrocytes swim with their roun
 
 
 chondroblasts are immature they can't swim/uptake nutrients by diffusion as the more mature chondrocytes which can totally swim/ uptake nutrients by diffusion through the avascular matrix.
+
+
+Hyaline cartilage H&E x400
