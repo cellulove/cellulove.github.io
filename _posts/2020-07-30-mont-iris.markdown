@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "The mont iris"
+date:   2020-07-30 
+categories: special sense
+---
+
+![mont iris]({{ BASE_PATH }}/assets/images/iris-mountain.jpg)
+
+While capturing some micrographs of the eye ball, i found that amazing iris standing. 
+
+
+It reminded me of the matterhorn mountain of the Alpes, with its unique peak that is similar to that pigmented epithelium layer covering of the iris :)
+
+
+Iris toluidine blue x100
