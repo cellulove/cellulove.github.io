@@ -12,3 +12,6 @@ There is a place in heliopolis called korba, its buildings' acrchitecture design
 The zona glomerulosa of the adrenal cortex that is composed of many columnar cells organized in arcades just like the ones in korba :)
 
 The zona glomerulosa secrets the aldosterone hormone in the arcades spaces/blood sinusoids, which is very important in regulating blood pressure. 
+
+
+Adrenal cortex H&E x400
