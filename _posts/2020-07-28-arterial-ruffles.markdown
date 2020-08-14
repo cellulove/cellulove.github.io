@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The arterial ruffles"
-date:   2020-08-09 21:00:00 +0200
+date:   2020-07-28 21:00:00 +0200
 categories: CVS
 ---
 
