@@ -7,4 +7,4 @@ categories: speciial-senses
 
 Description goes here
 
-![Retina Weavers](./images/retina-weaver.jpg)
+![Retina Weavers]({{ BASE_PATH }}/assets/images/retina-weaver.jpg)
