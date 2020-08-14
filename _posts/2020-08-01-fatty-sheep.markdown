@@ -7,7 +7,7 @@ categories: connective tissue
 
 ![fatty bairam sheep]({{ BASE_PATH }}/assets/images/sheep-fat.jpg)
 
-Happy Bairam feast everyone !! :)
+Happy Bayram feast everyone !! :)
 
 This sheeps wool is made of lipid tissue, fat cells with their signet ring appearance. Filled with a one large globule of fat that pushed the nucleus to one side. 
 
