@@ -14,4 +14,7 @@ The patterns under the microscope are everywhere around us.
 Half jejunum, half kiwi :)
 
 
+Notice the finger like projections / villi of this part of the small intestine.
+
+
 Jejunum H&E x40
