@@ -9,4 +9,5 @@ categories: Female
 
 The mature graafian follicle is the most special finding in the histology of the ovary. It is considered as the incubator of the ova before releasing it to the fallopian tube during ovulation.
 
+
 Graafian follicle Mallory trichrome x400
