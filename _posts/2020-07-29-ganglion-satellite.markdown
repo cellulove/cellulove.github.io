@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The satellite of the ganglion"
-date:   2020-08-09 21:00:00 +0200
+date:   2020-07-29 21:00:00 +0200
 categories: nervous system
 ---
 
