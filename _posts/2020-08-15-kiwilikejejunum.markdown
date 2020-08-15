@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The half patterned jejunum"
+title:  "The kiwi like jejunum"
 date:   2020-08-15 21:00:00 +0200
 categories: GIT
 ---
