@@ -4,15 +4,24 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+![dalia]({{ BASE_PATH }}/assets/images/me.jpg)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+This is a blog about appreciation of the art in histological slides. 
 
 
-[jekyll-organization]: https://github.com/jekyll
+Cellulove is "cellular" + "Love" 
+
+
+All microscopic photos are carptured, edited,prodced and authored by Dr. Dalia Matouk, working as an assistant lecturer of Histology ans Cell biology in Ain Shams University, Egypt.
+
+
+Dalia has a great passion for tissue microscopic slides and stains. She wants to spread the appreciation of its beauty to all medical students and colleagues. 
+
+
+The blog takes the microscopic slides from the strictly boring scientific context, to an artistic context.
+
+
+Contact Dalia at:
+
+
+daliayousef7@gmail.com
