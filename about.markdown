@@ -17,7 +17,7 @@ Dalia has a great passion for tissue microscopic slides and stains. She wants to
 
 The blog takes the microscopic slides from the strictly boring scientific context, to an artistic context.
 
-Disclaimer: Slides from which photos are captured in photos are some owned by the author and some by the histology department, faculty of medicine, Ain Shams University.
+Disclaimer: Microscopic photos are captured from slides owned by the author and by the histology department, faculty of medicine, Ain Shams University.
 Other non Microscopic photos are not owned by the author.
 
 <div id="wufoo-m1i0uyl703ke8b9">Fill out my <a href="https://ahmadalfy.wufoo.com/forms/m1i0uyl703ke8b9">online form</a>.</div>
