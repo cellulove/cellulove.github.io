@@ -2,7 +2,8 @@
 layout: post
 title:  "The simple sleek squamous"
 date:   2020-07-26 21:00:00 +0200
-categories: epithelium 
+categories: epithelium
+image: simple-squamous.jpg
 ---
 
 ![simple squamous]({{ BASE_PATH }}/assets/images/simple-squamous.jpg)

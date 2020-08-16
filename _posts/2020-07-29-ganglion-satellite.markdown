@@ -3,6 +3,7 @@ layout: post
 title:  "The satellite of the ganglion"
 date:   2020-07-29 21:00:00 +0200
 categories: nervous system
+image: ganglion-satellite.jpg
 ---
 
 ![satellite of the ganglion]({{ BASE_PATH }}/assets/images/ganglion-satellite.jpg)

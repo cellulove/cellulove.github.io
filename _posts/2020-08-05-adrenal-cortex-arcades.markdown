@@ -3,6 +3,7 @@ layout: post
 title:  "The arcades of glomerulosa"
 date:   2020-08-05 21:00:00 +0200
 categories: endocrine
+image: adrenal-cortex-arcades.jpg
 ---
 
 ![adrenal cortex]({{ BASE_PATH }}/assets/images/adrenal-cortex-arcades.jpg)

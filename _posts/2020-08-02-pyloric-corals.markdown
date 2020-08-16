@@ -3,6 +3,7 @@ layout: post
 title:  "Pyloric corals"
 date:   2020-08-02 21:00:00 +0200
 categories: GIT
+image: pylorus-glands-sea-weeds.jpg
 ---
 
 ![pyloric corals]({{ BASE_PATH }}/assets/images/pylorus-glands-sea-weeds.jpg)

@@ -3,6 +3,7 @@ layout: post
 title:  "The sensory sand foot prints"
 date:   2020-08-09 21:00:00 +0200
 categories: nervous system
+image: messnes-corpuscle-sand.jpg
 ---
 
 ![sensory sand foot prints]({{ BASE_PATH }}/assets/images/messnes-corpuscle-sand.jpg)

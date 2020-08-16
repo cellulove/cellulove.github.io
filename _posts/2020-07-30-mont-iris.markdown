@@ -3,6 +3,7 @@ layout: post
 title:  "The mont iris"
 date:   2020-07-30 
 categories: special sense
+image: iris-mountain.jpg
 ---
 
 ![mont iris]({{ BASE_PATH }}/assets/images/iris-mountain.jpg)

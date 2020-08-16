@@ -2,6 +2,7 @@
 layout: post
 title:  "welcome to cellulove blog"
 date:   2020-07-23 21:00:00 +0200
+image: hearts.jpg
 ---
 
 ![welcome heart]({{ BASE_PATH }}/assets/images/hearts.jpg)

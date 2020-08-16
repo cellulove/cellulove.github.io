@@ -3,6 +3,7 @@ layout: post
 title:  "The Retinal Weaver pattern"
 date:   2020-08-10 21:00:00 +0200
 categories: special-senses
+image: retina-weaver.jpg
 ---
 
 ![Retina Weavers]({{ BASE_PATH }}/assets/images/retina-weaver.jpg)

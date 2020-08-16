@@ -3,6 +3,7 @@ layout: post
 title:  "The tulip taste bud"
 date:   2020-07-27 21:00:00 +0200
 categories: GIT
+image: taste-bud-tulip.jpg
 ---
 
 ![tulip taste bud]({{ BASE_PATH }}/assets/images/taste-bud-tulip.jpg)

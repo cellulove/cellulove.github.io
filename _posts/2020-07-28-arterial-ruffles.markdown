@@ -3,6 +3,7 @@ layout: post
 title:  "The arterial ruffles"
 date:   2020-07-28 21:00:00 +0200
 categories: CVS
+image: muscular-artery.jpg
 ---
 
 ![arterial ruffles]({{ BASE_PATH }}/assets/images/muscular-artery.jpg)

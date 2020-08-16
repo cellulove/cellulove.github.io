@@ -3,6 +3,7 @@ layout: post
 title:  "The half patterned jejunum"
 date:   2020-08-15 21:00:00 +0200
 categories: GIT
+image: Jejunem-kiwi.jpg
 ---
 
 ![kiwi jejunum]({{ BASE_PATH }}/assets/images/Jejunem-kiwi.jpg)

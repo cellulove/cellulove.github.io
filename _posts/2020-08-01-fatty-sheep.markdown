@@ -2,7 +2,8 @@
 layout: post
 title:  "The fatty bayram sheep"
 date:   2020-08-01 21:00:00 +0200
-categories: connective tissue 
+categories: connective tissue
+image: sheep-fat.jpg
 ---
 
 ![fatty bairam sheep]({{ BASE_PATH }}/assets/images/sheep-fat.jpg)

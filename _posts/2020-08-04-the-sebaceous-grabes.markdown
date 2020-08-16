@@ -3,6 +3,7 @@ layout: post
 title:  "The sebaceous grapes"
 date:   2020-08-04 21:00:00 +0200
 categories: skin
+image: sebaceous-gland-grapes.jpg
 ---
 
 ![sebaceous grapes]({{ BASE_PATH }}/assets/images/sebaceous-gland-grapes.jpg)

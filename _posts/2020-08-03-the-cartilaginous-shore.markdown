@@ -3,6 +3,7 @@ layout: post
 title:  "The cartilaginous shore"
 date:   2020-08-03 21:00:00 +0200
 categories: cartilage 
+image: cartilage-sea-swimmers.jpg
 ---
 
 ![cartilage shore]({{ BASE_PATH }}/assets/images/cartilage-sea-swimmers.jpg)

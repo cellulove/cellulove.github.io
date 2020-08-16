@@ -3,6 +3,7 @@ layout: post
 title:  "The alveoli bubble effect"
 date:   2020-08-12 21:00:00 +0200
 categories: lung
+image: alveoli-bubbles.jpg
 ---
 
 ![Retina Weavers]({{ BASE_PATH }}/assets/images/alveoli-bubbles.jpg)

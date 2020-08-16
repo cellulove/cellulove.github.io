@@ -3,6 +3,7 @@ layout: post
 title:  "August, the hair loss awareness month"
 date:   2020-08-08 21:00:00 +0200
 categories: skin
+image: downgrowth-of-epidermis.jpg
 ---
 
 ![new hair follicles]({{ BASE_PATH }}/assets/images/downgrowth-of-epidermis.jpg)

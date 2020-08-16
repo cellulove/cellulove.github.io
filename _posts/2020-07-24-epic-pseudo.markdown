@@ -2,7 +2,8 @@
 layout: post
 title:  "The epic pseudo"
 date:   2020-07-24 19:00:00 +0200
-categories: epithelium 
+categories: epithelium
+image: pseudostratified.jpg
 ---
 
 ![epic pseudo]({{ BASE_PATH }}/assets/images/pseudostratified.jpg)

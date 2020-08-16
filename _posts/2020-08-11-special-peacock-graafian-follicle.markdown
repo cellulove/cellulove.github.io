@@ -2,7 +2,8 @@
 layout: post
 title:  "Special as a peacock feather"
 date:   2020-08-11 21:00:00 +0200
-categories: Female 
+categories: Female
+image: mature graafian-follicle-peacock.jpg
 ---
 
 ![graafian follicle peacock]({{ BASE_PATH }}/assets/images/mature graafian-follicle-peacock.jpg)
