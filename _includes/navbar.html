@@ -5,7 +5,7 @@
       <h2 class="d-none d-md-inline align-middle pl-3 text-primary">{{site.brand}}</h2>
       <h3 class="d-md-none d-inline align-middle pl-3 text-primary">{{site.brand}}</h3>
     </a>
-    <button class="navbar-toggler float-right" data-toggle="collapse" data-target="#navbarNav">
+    <button id="menu-toggler" class="navbar-toggler float-right">
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarNav">
@@ -23,3 +23,8 @@
     </div>
   </div>
 </nav>
+<script>
+  document.querySelector('#menu-toggler').addEventListener('click', function() {
+    document.querySelector('#navbarNav').classList.toggle('show');
+  });
+</script>
