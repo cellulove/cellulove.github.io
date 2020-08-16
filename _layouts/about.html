@@ -1,8 +1,14 @@
 {% include head.html %}
 {% include navbar.html %}
 {% include jumbotron.html %}
-<div class="container">
-  {{ content }}
-</div>
+<section id="about" class="py-3">
+  <div class="container">
+    <div class="row">
+      <div class="col">
+        {{ content }}
+      </div>
+    </div>
+  </div>
+</section>
 {% include pagination.html %}
 {% include footer.html %}
