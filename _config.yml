@@ -65,18 +65,10 @@ defaults:
       layout: default 
 
 # Pagination (using jekyll-paginate-v2)
-pagination:
-  enabled: true
-  per_page: 8 
-  paginate_path: "/page:num"
-  sort_reverse: true
-  title: ":title"
-  trail:
-    before: 2
-    after: 2
+paginate: 8
 
 # Plugins
-plugins: [jekyll-paginate-v2, jemoji, jekyll-sitemap, jekyll-seo-tag, jekyll-feed]
+plugins: [jekyll-paginate, jekyll-sitemap, jekyll-seo-tag, jekyll-feed]
 
 # Exclude from processing.
 # The following items will not be processed, by default.
