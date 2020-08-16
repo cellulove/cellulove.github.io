@@ -79,7 +79,7 @@ pagination:
 plugins: [jekyll-paginate-v2, jemoji, jekyll-sitemap, jekyll-seo-tag, jekyll-feed]
 
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
 
 # Exclude from processing.
 # The following items will not be processed, by default.
