@@ -11,7 +11,7 @@ image: thymus-lobule-galaxy.jpg
 
 One thymic lobule which looks like a galaxy 😍
 
-You see the the outer darker cortex and inner pale medulla, where the immature lymphocytes and the T lymphocytes appear as the stars makes the galaxy. 
+You see the the outer darker cortex and inner pale medulla, where the immature lymphocytes and the T lymphocytes appear as the stars which make the galaxy. 
 
 The center of the thyroid lobule contains hassal's corpuscles which are very esinophilic and by itself also looks like a another galaxy 😊
 
