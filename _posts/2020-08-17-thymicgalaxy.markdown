@@ -15,4 +15,6 @@ You see the the outer darker cortex and inner pale medulla, where the immature l
 
 The center of the thyroid lobule contains hassal's corpuscles which are very esinophilic and by itself also looks like a another galaxy 😊
 
+The thymus is the school of the T lymphocytes 😎
+
 Thymus H&E x100
