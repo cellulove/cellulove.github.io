@@ -3,7 +3,7 @@ layout: post
 title:  "Guest post: The classic carrot lobule"
 date:   2020-08-19 21:00:00 +0200
 categories: GIT 
-image:classic-hepatic-lobule-carrot.jpg
+image: classic-hepatic-lobule-carrot.jpg
 ---
 
 ![carrot lobule]({{ BASE_PATH }}/assets/images/classic-hepatic-lobule-carrot.jpg)
