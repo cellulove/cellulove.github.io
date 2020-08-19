@@ -11,6 +11,6 @@ image: classic-hepatic-lobule-carrot.jpg
 
 Patterns are the same everywhere !!
 
-The classic hepaatic lobule is the unit block of the liver tissue, it has a central vein and hepatocytes arranged in linear cords from the central vein in the same pattern of the heart of the carrot 😊😎
+The classic hepatic lobule is the unit block of the liver tissue, it has a central vein and hepatocytes arranged in linear cords from the central vein in the same pattern of the heart of the carrot 😊😎
 
 Liver H&E x100
