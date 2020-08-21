@@ -13,10 +13,8 @@ A second year medical student was inspired by cellulove to find the collarations
 
 Ahmed Rezk : This jar for cut section of humerus osteosarcoma. This lesion has grayish mass, invading B.M, areas of ossification, osteosarcoma, soft tissue extension & pathologic fractures. The soft tissue of osteosarcoma looks like the cobra hood flares.The head of humerus looks like the head of the cobra.The body of humerus looks like the body of the cobra"
 
-#Osteo_Cobra
-#Majesty_Of_pathology
-Contact author at: doopaaminee@gmail.com/ https://www.facebook.com/profile.php?id=100025786640549
 
+Contact author at: doopaaminee@gmail.com/ https://www.facebook.com/profile.php?id=100025786640549
 
 
 Disclaimer: images are not owned by the author
