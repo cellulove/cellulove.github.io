@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Kideny craters"
+title:  "Kidney craters"
 date:   2020-09-03 21:00:00 +0200
 categories: Urinary system
 image: kidney-cortex-moon-craters.jpg
