@@ -11,4 +11,4 @@ image: cobblestone-thyroid.jpg
 
 The beautiful pattern of thyroid follicles under the microscope, very organized and fitting together just like cobblestone 😍
 
-Thysoid x100
+Thyroid x100
