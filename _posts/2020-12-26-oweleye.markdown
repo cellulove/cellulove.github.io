@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Guest post: Owel lymphoma"
+date:   2020-12-26 21:00:00 +0200
+categories: Pathology
+image: owel eye.jpg
+---
+
+![Owel_lymphoma]({{ BASE_PATH }}/assets/images/owel eye.jpg)
+
+
+These are the microscopic features for Reed-sternberg cell (the marked indicator for Hodgkin's Lymphoma). 
+The nuclear envelopes of RS cells look like the heart shaped-facial disc of the owl & the two nucleoli look like the two enormous owl eyes. 
+#Owl_Lymphoma
+#Majesty_Of_pathology
+
+
+Reed sternberg cell x1000
