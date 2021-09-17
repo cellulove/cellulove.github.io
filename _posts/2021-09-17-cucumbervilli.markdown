@@ -11,4 +11,4 @@ image: Cucumber-villi.jpg
 
 What a resemblance between the cucumber and intestinal villi, even the seeds look like the columnar epithelium nuclei and goblet cells 😊
 
-Slide: Duodenum Villi x100 H&E
+Slide: Duodenum Villi x400 H&E
