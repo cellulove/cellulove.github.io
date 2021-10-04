@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "the bone of the almond "
+title:  "The bone of the almond "
 date:   2021-10-04 21:00:00 +0200
 categories: Bone
 image: the bone of the almond.jpg
