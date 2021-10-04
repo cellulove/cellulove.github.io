@@ -6,7 +6,7 @@ categories: Bone
 image: the bone of the almond.jpg
 ---
 
-![Goiter Pebbles]({{ BASE_PATH }}/assets/images/the bone of the almond.jpg)
+![Bone Almond]({{ BASE_PATH }}/assets/images/the bone of the almond.jpg)
 
  🔬
 Does almonds have bones??!! their shells are very similar to ground bone slides!! 😍
